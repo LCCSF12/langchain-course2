@@ -31,7 +31,7 @@ def main():
 
     result = agent.invoke({
         "messages": [
-            HumanMessage(content="I want to search for 3 job openings for an Artificial Intelligence Engineer using LangChain in the Bay Area on LinkedIn.")
+            HumanMessage(content="I want to search for 3 job openings for an Artificial Intelligence Engineer using LangChain in the Bay Area on Linkedin.")
         ]
     })
 
